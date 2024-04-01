@@ -1,6 +1,6 @@
 package geometry;
 
-class Square implements Shape {
+ public class Square implements Shape {
     private double side;
 
     public Square(double side) {
